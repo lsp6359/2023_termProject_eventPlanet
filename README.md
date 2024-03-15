@@ -2,8 +2,10 @@
 
 # 초기 설정
 
-backend 폴더 경로로 cmd를 열고 npm install
+backend cmd를 열고 npm install
 
 # 실행 방법
 
-backend 폴더 경로로 cmd를 열고 node index.js
+backend cmd를 열고 node index.js
+
+크롬 - http://localhost:8080/
