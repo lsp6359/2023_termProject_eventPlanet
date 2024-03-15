@@ -8,4 +8,4 @@ backend cmd -> npm install
 
 backend cmd -> node index.js
 
-크롬 - http://localhost:8080/
+크롬 - http://127.0.0.1:8000/
